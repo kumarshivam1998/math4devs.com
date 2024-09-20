@@ -179,7 +179,7 @@
     name: "Prime symbol for derivative",
     since: "1748",
     example: "{x}'",
-    code: "// TODO"
+    code: " const f' = (x) => 2 * x "
   },
   {
     symbol: 'Σ',
